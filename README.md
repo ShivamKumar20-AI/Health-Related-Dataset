@@ -1,2 +1,2 @@
 # health-related-dataset
-This Repository is in regards to Health related data
+This repository contains health-related datasets, including breast cancer and diabetes data, for analysis and experimentation.
